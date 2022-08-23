@@ -13,6 +13,7 @@ As time goes on, she plans to revisit or simply recreate it to implement more fe
 - A 'replay' button when someone wins.
 - Update the color of the entire platform to make it more appealing.
 - Make it so that it reads "Player 1" and "Player 2" instead of "Player X" and "Player O".
+- Implement a 'win streak' between players in a given moment.
 
 License: MIT License
 
