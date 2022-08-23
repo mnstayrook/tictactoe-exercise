@@ -10,10 +10,10 @@ Have two players (or battle against yourself). Click squares per turn until some
 
 Roadmap:
 As time goes on, she plans to revisit or simply recreate it to implement more features, such as:
-- A 'replay' button when someone wins.
-- Update the color of the entire platform to make it more appealing.
-- Make it so that it reads "Player 1" and "Player 2" instead of "Player X" and "Player O".
-- Implement a 'win streak' between players in a given moment.
+- A 'replay' button when someone wins. I would probably initially do a window refresh function until I learn how to 'refresh' just the board so the whole screen doesn't load.
+- Update the color of the entire platform to make it more appealing. I would work heavily in CSS to do this, as well as possibly some light coding in the JS file in order to make everything cohesive.
+- Make it so that it reads "Player 1" and "Player 2" instead of "Player X" and "Player O". With this, I can simply change the wording of the code that gets displayed for this particular function.
+- Implement a 'win streak' between players in a given moment. Not quite sure how I would do this yet, but I would love to keep track of the wins. This would have to tie in with a replay button that doesn't refresh the entire screen. Maybe even implement a button to reset scoreboard, which would refresh the page.
 
 License: MIT License
 
